@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="unit_converter">Unit Converter</string>
+    <string name="convertible">Convertible value</string>
+    <string name="converted">Converted value</string>
+    <string name="weight">Weight</string>
+    <string name="length">Length</string>
+    <string name="time">Time</string>
+    <string name="data_size">Data Size</string>
+</resources>
